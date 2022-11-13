@@ -10,6 +10,7 @@ Use the images and load them in the pretrained mobilenet model using teachable m
 Download the model and integrate it with the android studio,
 Download and add the voice note,
 Finally run the app.
+
 Dataset link: https://data.mendeley.com/datasets/48ympv8jjf/1
 
 Teachable machine: https://teachablemachine.withgoogle.com/train/image
